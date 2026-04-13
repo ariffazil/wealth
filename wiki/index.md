@@ -17,6 +17,12 @@ tags: [index, meta, wealth, arifos]
 |------|---------|
 | [[synthesis-foundations-of-wealth]] | The five pillars of wealth in the arifOS frame: cooling prosperity, stewardship logic, thermodynamic ethics, proxy efficiency, and contextual vitality. |
 
+## Architecture & Roadmap
+
+| Page | Summary |
+|------|---------|
+| [[layered-architecture]] | The 5-layer operational stack: Kernel → Domain → Governance → Federation → GEOX → capitalx. |
+
 ## Concept Pages
 
 | Page | Summary |
@@ -31,6 +37,12 @@ tags: [index, meta, wealth, arifos]
 | [[concept-contextual-vitality]] | The Ψ_contextual equation. Livelihood coupling and ecological safety margins are required for lawful success. |
 | [[concept-cooling-prosperity]] | Wealth as cooled prosperity: clarity rising, stress falling, trust holding. ΔS < 0 and Peace² ≥ 1.00. |
 | [[concept-stewardship-shift]] | The paradigm shift from commodity to covenant, extraction to regeneration, possession to custodianship. |
+
+## Engine / Tool Pages
+
+| Page | Summary |
+|------|---------|
+| [[capitalx-risk-pricing-engine]] | The `capitalx` engine: translating constitutional signals (ΔS, Peace², Maruah, Trust, ΔCiv) into cost-of-capital adjustments. |
 
 ## Entity Pages
 
@@ -52,4 +64,4 @@ tags: [index, meta, wealth, arifos]
 
 ---
 
-*Last updated: 2026-04-13 | Total pages: 18*
+*Last updated: 2026-04-13 | Total pages: 21*

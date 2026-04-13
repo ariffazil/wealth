@@ -1,0 +1,29 @@
+{
+  "name": "wealth-os",
+  "version": "1.1.0",
+  "description": "WEALTH by arifOS — Distributed Governance Operating System for capital",
+  "type": "module",
+  "main": "src/index.js",
+  "bin": {
+    "wealth": "./cli.js"
+  },
+  "scripts": {
+    "boot": "node cli.js boot",
+    "check": "node cli.js check",
+    "seal": "node cli.js seal",
+    "test": "node --test tests/*.test.js"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "keywords": [
+    "wealth",
+    "arifos",
+    "governance",
+    "capital",
+    "post-agi",
+    "constitutional"
+  ],
+  "author": "Muhammad Arif bin Fazil",
+  "license": "AGPL-3.0"
+}
