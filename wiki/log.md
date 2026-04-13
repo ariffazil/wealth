@@ -4,6 +4,15 @@
 
 ---
 
+## [2026-04-13] canon | Knowledge Spine forged — 11 canonical artifacts
+- Created `canon/` directory with the 7 core + 4 optional canonical artifacts.
+- Each core artifact follows the strict 5-section structure: Definition, Variables, Invariants, State Transitions, Failure Modes.
+- Core: COSMOLOGY, GOVERNANCE, ECONOMIC_MODEL, NODE_SPEC, TELEMETRY_SCHEMA, CAPITALX_SPEC, ROADMAP.
+- Optional: GLOSSARY, CASE_STUDIES, STRESS_TESTS, THREAT_MODEL.
+- Added `canon/README.md` explaining the architecture and evolution rules (cap at 11).
+- Created wiki page `knowledge-spine.md` and updated index.
+- This is the canonical state description of the system — protocol intent preserved, framework execution enabled.
+
 ## [2026-04-13] mcp | WEALTH MCP Server packaged and validated
 - Built `mcp/server.js` — stdio MCP server with 9 tools + 3 resources.
 - Added `@modelcontextprotocol/sdk` and `zod` to `package.json`.

@@ -11,6 +11,12 @@ tags: [index, meta, wealth, arifos]
 
 ---
 
+## Meta / Knowledge Architecture
+
+| Page | Summary |
+|------|---------|
+| [[knowledge-spine]] | The canonical 11-artifact knowledge architecture: 7 core + 4 optional, each with Definition → Variables → Invariants → Transitions → Failure Modes. |
+
 ## Synthesis & Cosmology
 
 | Page | Summary |
@@ -67,4 +73,4 @@ tags: [index, meta, wealth, arifos]
 
 ---
 
-*Last updated: 2026-04-13 | Total pages: 25*
+*Last updated: 2026-04-13 | Total pages: 26*
